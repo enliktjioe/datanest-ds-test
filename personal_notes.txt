@@ -1,0 +1,4 @@
+Variable with NA value:
+InvoiceID
+LinkedAccountId
+PayerPONumber
